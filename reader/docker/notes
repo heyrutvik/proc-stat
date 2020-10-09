@@ -1,0 +1,3 @@
+To access docker container bash,
+  1. `docker ps` (find CONTAINER ID)
+  2. `docker exec -it <CONTAINER ID> /bin/bash
